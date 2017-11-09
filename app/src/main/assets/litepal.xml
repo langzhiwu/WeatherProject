@@ -1,0 +1,9 @@
+<litepal>
+    <dbnama value="cool_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.longxing.weatherproject.db.City"/>
+        <mapping class="com.example.longxing.weatherproject.db.County"/>
+        <mapping class="com.example.longxing.weatherproject.db.Province"/>
+    </list>
+</litepal>
